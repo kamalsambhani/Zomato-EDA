@@ -1,5 +1,5 @@
 # Zomato EDA Analysis Using Python
-![Zomato-Logo](https://github.com/user-attachments/assets/8500f02e-b8d2-4669-825f-17855f27a3f7)
+![Zomato-Logo](https://github.com/user-attachments/assets/8500f02e-b8d2-4669-825f-17855f27a3f7 | width=100)
 
 
 ## 📊 Project Overview
