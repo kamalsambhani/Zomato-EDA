@@ -1,6 +1,4 @@
-# Zomato EDA Analysis Using Python
-![Zomato-Logo](https://github.com/user-attachments/assets/8500f02e-b8d2-4669-825f-17855f27a3f7 | width=100)
-
+# Zomato EDA Using Python
 
 ## 📊 Project Overview
 This project focuses on analyzing Zomato restaurant data to derive meaningful insights. The data underwent extensive cleaning and preprocessing before uncovering key patterns and trends in the restaurant industry.
